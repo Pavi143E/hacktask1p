@@ -1,8 +1,6 @@
 # hacktask1p
-html>
- <head> 
-  <title>hackbio intern task</title> 
- </head> 
+<html>
+ 
  <body> 
   <h1>Team Flemming</h1> 
   <div>
